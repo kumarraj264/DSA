@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kumarraj264/DSA/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/kumarraj264/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kumarraj264/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kumarraj264/DSA/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/kumarraj264/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarraj264/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kumarraj264/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarraj264/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/kumarraj264/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kumarraj264/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kumarraj264/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kumarraj264/DSA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/kumarraj264/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarraj264/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/kumarraj264/DSA/tree/master/1140-stone-game-ii) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarraj264/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/kumarraj264/DSA/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/kumarraj264/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarraj264/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarraj264/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kumarraj264/DSA/tree/master/0268-missing-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarraj264/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kumarraj264/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kumarraj264/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -129,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kumarraj264/DSA/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kumarraj264/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
