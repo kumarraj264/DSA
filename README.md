@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kumarraj264/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kumarraj264/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/kumarraj264/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/kumarraj264/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kumarraj264/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kumarraj264/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kumarraj264/DSA/tree/master/0283-move-zeroes) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kumarraj264/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/kumarraj264/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kumarraj264/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarraj264/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/kumarraj264/DSA/tree/master/1288-remove-covered-intervals) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kumarraj264/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kumarraj264/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/kumarraj264/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kumarraj264/DSA/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/kumarraj264/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarraj264/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kumarraj264/DSA/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kumarraj264/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kumarraj264/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
@@ -248,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kumarraj264/DSA/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kumarraj264/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kumarraj264/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
