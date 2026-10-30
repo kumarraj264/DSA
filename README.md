@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kumarraj264/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kumarraj264/DSA/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/kumarraj264/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/kumarraj264/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/kumarraj264/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kumarraj264/DSA/tree/master/0283-move-zeroes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kumarraj264/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/kumarraj264/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kumarraj264/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/kumarraj264/DSA/tree/master/1288-remove-covered-intervals) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kumarraj264/DSA/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/kumarraj264/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/kumarraj264/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kumarraj264/DSA/tree/master/0283-move-zeroes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kumarraj264/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -237,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kumarraj264/DSA/tree/master/1510-stone-game-iv) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kumarraj264/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kumarraj264/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
